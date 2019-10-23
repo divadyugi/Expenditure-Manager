@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Expenditures.v3</string>
+    <string-array name="expenditutreType">
+        <item>Rent</item>
+        <item>Bills</item>
+        <item>Transport</item>
+        <item>Food</item>
+        <item>Leisure</item>
+        <item>Cash</item>
+        <item>Other</item>
+    </string-array>
+</resources>
